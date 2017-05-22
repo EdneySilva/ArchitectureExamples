@@ -1,0 +1,6 @@
+C:\Users\edneysilva\Documents\Visual Studio 2015\Projects\ArchitectureExamples\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\edneysilva\Documents\Visual Studio 2015\Projects\ArchitectureExamples\Decorator\bin\Debug\Decorator.exe
+C:\Users\edneysilva\Documents\Visual Studio 2015\Projects\ArchitectureExamples\Decorator\bin\Debug\Decorator.pdb
+C:\Users\edneysilva\Documents\Visual Studio 2015\Projects\ArchitectureExamples\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+C:\Users\edneysilva\Documents\Visual Studio 2015\Projects\ArchitectureExamples\Decorator\obj\Debug\Decorator.exe
+C:\Users\edneysilva\Documents\Visual Studio 2015\Projects\ArchitectureExamples\Decorator\obj\Debug\Decorator.pdb
