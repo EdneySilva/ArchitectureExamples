@@ -1,0 +1,6 @@
+C:\Users\edneysilva\Documents\Visual Studio 2015\Projects\ArchitectureExamples\FlyWeight\bin\Release\FlyWeight.exe.config
+C:\Users\edneysilva\Documents\Visual Studio 2015\Projects\ArchitectureExamples\FlyWeight\bin\Release\FlyWeight.exe
+C:\Users\edneysilva\Documents\Visual Studio 2015\Projects\ArchitectureExamples\FlyWeight\bin\Release\FlyWeight.pdb
+C:\Users\edneysilva\Documents\Visual Studio 2015\Projects\ArchitectureExamples\FlyWeight\obj\Release\FlyWeight.csprojResolveAssemblyReference.cache
+C:\Users\edneysilva\Documents\Visual Studio 2015\Projects\ArchitectureExamples\FlyWeight\obj\Release\FlyWeight.exe
+C:\Users\edneysilva\Documents\Visual Studio 2015\Projects\ArchitectureExamples\FlyWeight\obj\Release\FlyWeight.pdb

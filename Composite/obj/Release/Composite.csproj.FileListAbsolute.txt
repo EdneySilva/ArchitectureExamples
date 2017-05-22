@@ -1,0 +1,6 @@
+C:\Users\edneysilva\Documents\Visual Studio 2015\Projects\ArchitectureExamples\Composite\bin\Release\Composite.exe.config
+C:\Users\edneysilva\Documents\Visual Studio 2015\Projects\ArchitectureExamples\Composite\bin\Release\Composite.exe
+C:\Users\edneysilva\Documents\Visual Studio 2015\Projects\ArchitectureExamples\Composite\bin\Release\Composite.pdb
+C:\Users\edneysilva\Documents\Visual Studio 2015\Projects\ArchitectureExamples\Composite\obj\Release\Composite.csprojResolveAssemblyReference.cache
+C:\Users\edneysilva\Documents\Visual Studio 2015\Projects\ArchitectureExamples\Composite\obj\Release\Composite.exe
+C:\Users\edneysilva\Documents\Visual Studio 2015\Projects\ArchitectureExamples\Composite\obj\Release\Composite.pdb

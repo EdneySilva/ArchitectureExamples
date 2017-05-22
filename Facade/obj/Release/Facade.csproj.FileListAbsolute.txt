@@ -1,0 +1,6 @@
+C:\Users\edneysilva\Documents\Visual Studio 2015\Projects\ArchitectureExamples\Facade\bin\Release\Facade.exe.config
+C:\Users\edneysilva\Documents\Visual Studio 2015\Projects\ArchitectureExamples\Facade\bin\Release\Facade.exe
+C:\Users\edneysilva\Documents\Visual Studio 2015\Projects\ArchitectureExamples\Facade\bin\Release\Facade.pdb
+C:\Users\edneysilva\Documents\Visual Studio 2015\Projects\ArchitectureExamples\Facade\obj\Release\Facade.csprojResolveAssemblyReference.cache
+C:\Users\edneysilva\Documents\Visual Studio 2015\Projects\ArchitectureExamples\Facade\obj\Release\Facade.exe
+C:\Users\edneysilva\Documents\Visual Studio 2015\Projects\ArchitectureExamples\Facade\obj\Release\Facade.pdb
